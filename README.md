@@ -1,83 +1,159 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# Manvendra Singh (themanvendra00)
+
+<div align="center">
+            <img src="https://img.icons8.com/fluency/30/000000/star.png" />
+            <img src="https://img.icons8.com/fluency/30/000000/star.png" />
+            <img src="https://img.icons8.com/fluency/30/000000/star.png" />
+            <img src="https://img.icons8.com/fluency/30/000000/star.png" /><img src="https://img.icons8.com/color/30/000000/star--v1.png"/>
+ </div><br>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=themanvendra00&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="themanvendra00" /> </p>
+ 
+ 
+ <!-- GREETING  -->
+<h3 align="center">
+  Hello! Welcome to my profile.<br> *****
+             
+
+<p align="center">
+  <a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20b.manvendrasingh2000@gmail.com;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=16"></a>
+</p>
 
 
-<div id="badges" align="center">
-  <a href="www.linkedin.com/in/themanvendra">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+<div align="center"> Social and Contact Info. </div><br>
+<p align="center">
+<a href="https://relaxed-lollipop-207eaf.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-fff?style=for-the-badge&logo=googlechrome&logoColor=blue" alt="Portfolio" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/themanvendra/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
+<a href="mailto:b.manvendrasingh2000@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp; <br><br>
+<a href="https://drive.google.com/file/d/1RxDrehJAss-mb1PF4qcuFCkZulqlLaM2/view?usp=share_link"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
+</p><br>
 
 
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=themanvendra00&style=flat-square&color=blue" width="100"/>
-</div>
-
-
-<h1 align="center">
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<!-- BADGES -->
+<p align="center">
+<img src="https://img.shields.io/badge/Interest-Web Development-yellow"/>
+<img src="https://img.shields.io/badge/Hobby-Coding-yellow" />
+<img src="https://img.shields.io/badge/Programming-JavaScript-yellow" />
+<img src="https://img.shields.io/badge/Language-English%2C%20Hindi-yellow" />
+</p><br>
 
 
 <div align="center">
-  <img src="https://markovate.b-cdn.net/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x.png" width="800" height="400"/>
+
+## 🎓📚 Education 
+![](https://img.shields.io/badge/masai_school-87CF3E?style=for-the-badge&logo=moringas_chool&logoColor=orange)
+![](https://img.shields.io/badge/ssipmt_raipur-430098?style=for-the-badge&logo=moringas_chool&logoColor=orange)
+![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) 
+![](https://img.shields.io/badge/gfg-green?style=for-the-badge&logo=geeksforgeeks&logoColor=#5FCFEE) 
+![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) 
+![](https://img.shields.io/badge/Kaggle-fff?style=for-the-badge&logo=Kaggle&logoColor=#0077B6) 
+![](https://img.shields.io/badge/codewars-9e2a2b?style=for-the-badge&logo=codewars&logoColor=white)
+![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
+
 </div>
 
----
 
-### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
- :telescope: Aspiring Full Stack Development Cource at Masai School.
+</h3> <br><br>
 
-- :seedling: Want to become frontend web developer.
+## Skills and Tools
+<br>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Skills</th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/express/express-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"/> </td>
+    </tr>
+    <tr> 
+      <td align="center" width=110>HTML</td>
+      <td align="center" width=110>CSS</td>
+      <td align="center" width=110>JavaScript</td>
+      <td align="center" width=110>Node.js</td>
+      <td align="center" width=110>Express.js</td>
+      <td align="center" width=110>MongoDB</td>
+    </tr>
+  </table>
 
-- :zap: In my free time, I solve problems on hecker rank and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/themanvendra)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Tools & Libraries </th>
+      </tr>
+    </thead>
+      <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/npm/npm-original-wordmark.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
+      <tr align="center">
+        <td align="center" width=110>Heroku</td>
+        <td align="center" width=110>Git</td>
+        <td align="center" width=110>GitHub</td>
+        <td align="center" width=110>Bootstrap</td>
+        <td align="center" width=110>npm</td>
+        <td align="center" width=110>VSCode</td>
+      </tr>
+    </tr>
+  </table>
 </div>
 
----
+<br>
+<br>
 
-### :fire: My Stats :
+## 📊 GitHub Statistics
+<br>
+<div align="center">
 
+  <a href="https://github.com/themanvendra00/themanvendra00">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=themanvendra00&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themanvendra00&theme=highcontrast" />
+  </a>
+  
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themanvendra00&theme=highcontrast&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+<br>
+<br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themanvendra00&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
+<div align="center">
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=themanvendra00"/><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themanvendra00"/>
+</div>
 
 <!--
-**themanvendra00/themanvendra00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Consistency:
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=themanvendra00&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Graph:
+ https://github.com/omololevy/github-readme-activity-graph 
+<a href="https://github.com/omololevy/github-readme-activity-graph"><img alt="Levy Cotech's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=omololevy&bg_color=1F222E&color=F8D866&line=31e981&point=FFFFFF&hide_border=true" /></a> -->
+
+## Achievements:
+<br>
+<div align="center">  
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=themanvendra00&margin-w=15&margin-h=15" />
+</div>
+
+<br>
+
+## 📫 Contact Information:
+Email me via <a href="mailto:b.manvendrasingh2000@gmail.com"> b.manvendrasingh2000@gmail.com <br>
+[Linkedin](https://www.linkedin.com/in/themanvendra/)
+<p align="center">
+  <a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20b.manvendrasingh2000@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=14"></a>
+</p>
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/omololevy/omololevy/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
