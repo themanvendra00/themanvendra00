@@ -1,5 +1,15 @@
-# Manvendra Singh (themanvendra00)
+<div align="center">
+<img align="left" src="https://media.licdn.com/dms/image/D5616AQFZaqhv1q6O1Q/profile-displaybackgroundimage-shrink_350_1400/0/1674964850254?e=1680739200&v=beta&t=lXMzzZ0g7uk8Uy8jbtT2VlPOcBE8wE3Sc30sUjMjBPM" alt="Git" />
+</div>
+<br><br>
 
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
+
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
+    
+<br><br><br>
+    
 <div align="center">
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
@@ -36,8 +46,12 @@
 <img src="https://img.shields.io/badge/Language-English%2C%20Hindi-yellow" />
 </p><br>
 
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
 
-<div align="center">
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
+
+<br><br><br>
 
 ## 🎓📚 Education 
 ![](https://img.shields.io/badge/masai_school-87CF3E?style=for-the-badge&logo=moringas_chool&logoColor=orange)
@@ -51,10 +65,13 @@
 
 </div>
 
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
 
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 
+<br><br><br>
 
-</h3> <br><br>
 
 ## Skills and Tools
 <br>
@@ -111,6 +128,13 @@
 <br>
 <br>
 
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
+
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
+
+<br><br><br>
+
 ## 📊 GitHub Statistics
 <br>
 <div align="center">
@@ -144,6 +168,13 @@
 </div>
 
 <br>
+
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
+
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
+
+<br><br><br>
 
 ## 📫 Contact Information:
 Email me via <a href="mailto:b.manvendrasingh2000@gmail.com"> b.manvendrasingh2000@gmail.com <br>
