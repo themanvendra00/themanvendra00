@@ -180,7 +180,7 @@
 Email me via <a href="mailto:b.manvendrasingh2000@gmail.com"> b.manvendrasingh2000@gmail.com <br>
 [Linkedin](https://www.linkedin.com/in/themanvendra/)
 <p align="center">
-  <a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20b.manvendrasingh2000@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=14"></a>
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20b.manvendrasingh2000@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=14">
 </p>
 
 <div align="center">
