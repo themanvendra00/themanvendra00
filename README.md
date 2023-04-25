@@ -1,5 +1,6 @@
 <div align="center">
-<img align="left" src="https://media.licdn.com/dms/image/D5616AQFZaqhv1q6O1Q/profile-displaybackgroundimage-shrink_350_1400/0/1674964850254?e=1680739200&v=beta&t=lXMzzZ0g7uk8Uy8jbtT2VlPOcBE8wE3Sc30sUjMjBPM" alt="Git" />
+
+<img align="left" src="https://user-images.githubusercontent.com/114161535/234348268-66d16d00-7c46-43a6-8258-587899db355d.jpg" alt="Git" />
 </div>
 <br><br>
 
