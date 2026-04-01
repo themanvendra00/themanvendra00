@@ -42,7 +42,7 @@
 <a href="https://themanvendra00.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-fff?style=for-the-badge&logo=googlechrome&logoColor=blue"/></a>
 <a href="https://www.linkedin.com/in/themanvendra/"><img src="https://img.shields.io/badge/LinkedIn-430098?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:b.manvendrasingh2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1-qWk2DlagYV2NSP3oH3T58ligcFM9oEP/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a"/></a>
+<a href="https://drive.google.com/file/d/1jEyK7BVyiNthDHG01hyEqlN_HaY_qRpG/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a"/></a>
 </p>
 
 ---
