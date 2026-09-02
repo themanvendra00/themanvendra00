@@ -2,26 +2,7 @@
 <img width="2176" height="723" alt="image" src="https://github.com/user-attachments/assets/ce8a37c9-f0a5-456a-b425-992f2483e8a8" />
 </div>
 
-
-<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
-
-<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-    
-<br><br><br>
-    
-<div align="center">
-  <img src="https://img.icons8.com/fluency/30/000000/star.png" />
-  <img src="https://img.icons8.com/fluency/30/000000/star.png" />
-  <img src="https://img.icons8.com/fluency/30/000000/star.png" />
-  <img src="https://img.icons8.com/fluency/30/000000/star.png" />
-  <img src="https://img.icons8.com/color/30/000000/star--v1.png"/>
-</div>
-
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=themanvendra00&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" />
-</p>
 
 ---
 
@@ -31,6 +12,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;Backend%20Developer%20%7C%20Node.js%20%7C%20NestJS;Open%20to%20collaboration!;Fork,%20clone,%20star%20any%20repo!&font=Fira%20Code&center=true&width=500&height=45&color=FFFFFF&vCenter=true&size=16">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=themanvendra00&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" />
 </p>
 
 ---
