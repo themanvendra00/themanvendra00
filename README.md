@@ -1,8 +1,7 @@
 <div align="center">
-
-<img align="left" src="https://user-images.githubusercontent.com/114161535/234348268-66d16d00-7c46-43a6-8258-587899db355d.jpg" alt="Git" />
+<img width="2176" height="723" alt="image" src="https://github.com/user-attachments/assets/ce8a37c9-f0a5-456a-b425-992f2483e8a8" />
 </div>
-<br><br>
+
 
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
 
@@ -74,16 +73,20 @@
 </div>
 
 ---
+## 📊 roadmap.sh Stats
+<div align="center">
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6a97c47c63fe0f170fc77137?variant=dark&roadmaps=backend%2Cfull-stack%2Csoftware-architect%2Cai-agents" alt="roadmap.sh"/></a>
+</div>
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=themanvendra00&show_icons=true&theme=dark&count_private=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themanvendra00&layout=compact&theme=dark" />
 
-</div>
+</div> -->
 
 <br>
 
