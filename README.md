@@ -1,98 +1,40 @@
 <div align="center">
-<img width="2176" height="723" alt="image" src="https://github.com/user-attachments/assets/ce8a37c9-f0a5-456a-b425-992f2483e8a8" />
-</div>
+
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+
+<h3><code>themanvendra@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Manvendra's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<!-- ascii portrait (left) + streak/numbers card (right). both svgs are
+     840x880 so equal widths give equal heights.
+     portrait: python scripts/fetch_avatar.py && python scripts/make_ascii_svg.py
+     stats:    python scripts/render_stats_svg.py (same daily workflow) -->
+
+<h3><code>themanvendra@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./ascii-portrait.svg" width="420" alt="Manvendra Singh — ASCII portrait generated from GitHub avatar" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Manvendra's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<h3><code>themanvendra@github ~ $ ./links.sh</code></h3>
+
+<p><b>Full Stack Developer · Agentic AI Developer</b></p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-themanvendra00-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themanvendra00)
+[![Portfolio](https://img.shields.io/badge/Portfolio-themanvendra00.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://themanvendra00.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manvendra_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/themanvendra/)
 
 <br>
 
----
-
-<h3 align="center">
-  Hello! Welcome to my profile 👋
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;Backend%20Developer%20%7C%20Node.js%20%7C%20NestJS;Open%20to%20collaboration!;Fork,%20clone,%20star%20any%20repo!&font=Fira%20Code&center=true&width=500&height=45&color=FFFFFF&vCenter=true&size=16">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=themanvendra00&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-<a href="https://themanvendra00.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-fff?style=for-the-badge&logo=googlechrome&logoColor=blue"/></a>
-<a href="https://www.linkedin.com/in/themanvendra/"><img src="https://img.shields.io/badge/LinkedIn-430098?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:b.manvendrasingh2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1jEyK7BVyiNthDHG01hyEqlN_HaY_qRpG/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a"/></a>
-</p>
-
----
-
-## 🧠 About Me
-
-- 💻 Backend Developer with 2+ years experience  
-- ⚙️ Skilled in building scalable APIs & microservices  
-- 🚀 Passionate about performance optimization & system design  
-- 🤝 Open to collaboration and opportunities  
-
----
-
-## 🛠️ Skills & Tools
-
-<div align="center">
-
-### 🚀 Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,nestjs,react,nextjs,mongodb,postgres" />
-
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Claude-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
-
 </div>
-
----
-## 📊 roadmap.sh Stats
-<div align="center">
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6a97c47c63fe0f170fc77137?variant=dark&roadmaps=backend%2Cfull-stack%2Csoftware-architect%2Cai-agents" alt="roadmap.sh"/></a>
-</div>
-
-## 📊 GitHub Stats
-
-<!-- <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=themanvendra00&show_icons=true&theme=dark&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themanvendra00&layout=compact&theme=dark" />
-
-</div> -->
-
-<br>
-
-<div align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=themanvendra00&theme=dark"/>
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themanvendra00&theme=dark"/>
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themanvendra00&theme=dark" />
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-  📧 b.manvendrasingh2000@gmail.com <br>
-  <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/themanvendra/">https://www.linkedin.com/in/themanvendra/</a></p>
-</p>
